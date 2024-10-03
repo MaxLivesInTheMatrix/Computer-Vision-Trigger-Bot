@@ -1,0 +1,6 @@
+path: C:\TriggerBot
+train: C:\TriggerBot\images
+val: C:\TriggerBot\images
+
+nc: 1  # number of classes
+names: [ 'Enemy' ]  # class names
